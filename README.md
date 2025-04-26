@@ -31,12 +31,6 @@
 <br>
 <br>
 
-## 📊 My Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pritom-shajed&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pritom-shajed&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom-shajed&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 ## <img src="assets/gifs/globe-joypixels.gif" height="25px" width="25px"> Connect with Me:
 
 <p align="center">
